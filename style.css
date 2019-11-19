@@ -1,0 +1,28 @@
+body{
+  background-color: navy;
+}
+
+h1{
+  color: mintcream;
+  font-family: 'Alata', sans-serif;
+  text-align: center;
+}
+
+h6{
+  color: mintcream;
+  text-align: center;
+}
+
+p{
+  color: mintcream;
+  font-family: 'Alata', sans-serif;
+  text-align: center;
+  margin: 10px 200px 100px 200px;  
+}
+
+span{
+  color:mintcream;
+  font-family: 'Alata', sans-serif;
+  text-transform: capitalize
+}
+
